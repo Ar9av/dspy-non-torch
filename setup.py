@@ -10,10 +10,10 @@ with open("requirements.txt", encoding="utf-8") as f:
 
 setup(	
     #replace_package_name_marker
-    name="dspy-ai",
+    name="dspy-non-torch",
     #replace_package_version_marker
-    version="2.4.14", 	
-    description="DSPy",	
+    version="1.0.0", 	
+    description="DSPy non torch",	
     long_description=long_description,	
     long_description_content_type="text/markdown",	
     url="https://github.com/stanfordnlp/dsp",	
